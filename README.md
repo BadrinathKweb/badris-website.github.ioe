@@ -23,7 +23,7 @@
 </head>
 
 <body>
-    <img src="WhatsApp Image 2021-08-30 at 11.45.47 AM.jpeg" alt="an imageof badri">
+    <img src="images/WhatsApp Image 2021-08-30 at 11.45.47 AM" alt="an imageof badri">
     <p class="username">badrinathkandikonda</p>
     <p>welcome to my website</p>
 </body>
