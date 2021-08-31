@@ -25,7 +25,7 @@
 <body>
     <img src="images/WhatsApp Image 2021-08-30 at 11.45.47 AM" alt="an imageof badri">
     <p class="username">badrinathkandikonda</p>
-    <p>welcome to my website</p>
+    <p>welcome to my website of badri</p>
 </body>
 
 </html>
