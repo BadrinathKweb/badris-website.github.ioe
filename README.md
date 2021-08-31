@@ -26,7 +26,7 @@
 </head>
 
 <body>
-    <img src="images/WhatsApp Image 2021-08-30 at 11.45.47 AM" alt="an imageof badri">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes-la.facebook.com%2Fmonikaupadhyayjaishreeradhe%2Fposts%2F636555723700089%2F&psig=AOvVaw3Vkfr2rDGUk1IUHdDt3eeo&ust=1630503513438000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj6-PKw2_ICFQAAAAAdAAAAABAJ" alt="an imageof badri">
     <p class="username">badrinathkandikonda</p>
     <p>welcome to my website of badri</p>
 </body>
